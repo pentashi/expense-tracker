@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/expense-tracker/static/css/main.71df966f.css",
+    "main.js": "/expense-tracker/static/js/main.3e6d60f4.js",
+    "static/media/logo-sidebar.png": "/expense-tracker/static/media/logo-sidebar.65664a6a640337ab00fc.png",
+    "static/media/primeicons.svg": "/expense-tracker/static/media/primeicons.fa2c83d2f35244bb10dc.svg",
+    "static/media/logo.png": "/expense-tracker/static/media/logo.8230ff621dcfd7bac256.png",
+    "static/media/open-sans-v15-latin-regular.svg": "/expense-tracker/static/media/open-sans-v15-latin-regular.1d0d8b66fa1da76d69b9.svg",
+    "static/media/open-sans-v15-latin-700.svg": "/expense-tracker/static/media/open-sans-v15-latin-700.926388f043fc8117b35b.svg",
+    "static/media/open-sans-v15-latin-300.svg": "/expense-tracker/static/media/open-sans-v15-latin-300.bb3b405a4608d51ddb13.svg",
+    "static/media/primeicons.eot": "/expense-tracker/static/media/primeicons.c2e128a00fca2640240d.eot",
+    "static/media/primeicons.woff": "/expense-tracker/static/media/primeicons.1d79a0559e5f13294dee.woff",
+    "static/media/primeicons.ttf": "/expense-tracker/static/media/primeicons.04701ca33ce96d325419.ttf",
+    "static/media/open-sans-v15-latin-700.ttf": "/expense-tracker/static/media/open-sans-v15-latin-700.ec32d6be7329ece0789c.ttf",
+    "static/media/open-sans-v15-latin-300.ttf": "/expense-tracker/static/media/open-sans-v15-latin-300.252a41f69d4c320154a1.ttf",
+    "static/media/open-sans-v15-latin-regular.ttf": "/expense-tracker/static/media/open-sans-v15-latin-regular.61747992dd9a412e601e.ttf",
+    "static/media/open-sans-v15-latin-700.woff": "/expense-tracker/static/media/open-sans-v15-latin-700.2509c35b0cfc629f81e5.woff",
+    "static/media/open-sans-v15-latin-300.woff": "/expense-tracker/static/media/open-sans-v15-latin-300.df17d4e30091735253a8.woff",
+    "static/media/open-sans-v15-latin-regular.woff": "/expense-tracker/static/media/open-sans-v15-latin-regular.87a454b233bedae23f8d.woff",
+    "static/media/open-sans-v15-latin-700.eot": "/expense-tracker/static/media/open-sans-v15-latin-700.75e0e55bdb3e82dcacf8.eot",
+    "static/media/open-sans-v15-latin-300.eot": "/expense-tracker/static/media/open-sans-v15-latin-300.2aeabc9e8ed0aef227d7.eot",
+    "static/media/open-sans-v15-latin-regular.eot": "/expense-tracker/static/media/open-sans-v15-latin-regular.a356e361ee6765f3d6d4.eot",
+    "static/media/open-sans-v15-latin-700.woff2": "/expense-tracker/static/media/open-sans-v15-latin-700.7435e6c2064f36f48626.woff2",
+    "static/media/open-sans-v15-latin-300.woff2": "/expense-tracker/static/media/open-sans-v15-latin-300.f2ebdee8c2343f558a02.woff2",
+    "static/media/open-sans-v15-latin-regular.woff2": "/expense-tracker/static/media/open-sans-v15-latin-regular.ec806460121999bcfb12.woff2",
+    "static/media/line.gif": "/expense-tracker/static/media/line.39c65dcc08f7edb347b6.gif",
+    "static/media/user.png": "/expense-tracker/static/media/user.7994eeafe26097da0fa3.png",
+    "static/media/color.png": "/expense-tracker/static/media/color.6441e63a57ccc5105bad.png",
+    "index.html": "/expense-tracker/index.html",
+    "main.71df966f.css.map": "/expense-tracker/static/css/main.71df966f.css.map",
+    "main.3e6d60f4.js.map": "/expense-tracker/static/js/main.3e6d60f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71df966f.css",
+    "static/js/main.3e6d60f4.js"
+  ]
+}
