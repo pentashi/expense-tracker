@@ -1,6 +1,6 @@
 // Import core libraries
 import React from 'react';
-import ReactDOM from 'react-dom'; // ✅ React 16
+import ReactDOM from 'react-dom'; // ✅ React 16 uses this
 
 // Import main App component
 import App from './App';
@@ -8,11 +8,14 @@ import App from './App';
 // Initialize internationalization (i18n) before rendering the app
 import './app/locale/i18n';
 
+// Register service worker for offline support and faster load times
+import * as serviceWorker from './serviceWorker';
+
 // Get root DOM element
 const rootElement = document.getElementById('root');
 
 if (rootElement) {
-  // Render the app inside React.StrictMode
+  // Render the app inside React.StrictMode (helps highlight potential issues)
   ReactDOM.render(
     <React.StrictMode>
       <App />
@@ -25,16 +28,6 @@ if (rootElement) {
   );
 }
 
-// Register the service worker from public/service-worker.js
-if ('serviceWorker' in navigator) {
-  window.addEventListener('load', () => {
-    navigator.serviceWorker
-      .register('/service-worker.js') // Public folder SW
-      .then(registration => {
-        console.log('ServiceWorker registered: ', registration);
-      })
-      .catch(registrationError => {
-        console.log('ServiceWorker registration failed: ', registrationError);
-      });
-  });
-}
+// Register service worker (uncomment below if you want offline support)
+// Learn more: https://bit.ly/CRA-PWA
+serviceWorker.register();
