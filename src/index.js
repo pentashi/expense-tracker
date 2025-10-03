@@ -30,4 +30,4 @@ if (rootElement) {
 
 // Register service worker (uncomment below if you want offline support)
 // Learn more: https://bit.ly/CRA-PWA
-serviceWorker.register();
+// serviceWorker.register();
